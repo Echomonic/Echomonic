@@ -18,7 +18,7 @@
 
 <p>
 <h2 align="center"> 💾 <span class="bolded">Stats</span></h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echomonic)](https://github.com/Echomonic/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Echomonic&show_icons=true&theme=material-palenight)
+<p1 align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=Echomonic&show_icons=true&theme=material-palenight)</p1>
+
 </p>
