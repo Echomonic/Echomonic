@@ -17,7 +17,7 @@
 <h2 align="center"> 💾 <span class="bolded">Stats</span></h2>
 
 <p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Echomonic&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echomonic)](https://github.com/Echomonic/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Echomonic&show_icons=true&theme=material-palenight)
 </p>
