@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Echo</h1>
 <h3 align="center">I'm a minecraft plugin developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echomonic&label=Profile%20views&color=0e75b6&style=flat" alt="echomonic" /> </p>
-
-- 🔭 I’m currently working on **AdventureMC**
-
-- 🌱 I’m currently learning **OpenGL & GLSL**
-
-- 💬 Ask me about **Java**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=echomonic&label=Profile%20views&color=0e75b6&style=flat" alt="echomonic" /> </
 
 </p>
 
